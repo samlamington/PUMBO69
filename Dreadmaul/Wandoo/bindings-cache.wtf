@@ -1,16 +1,34 @@
 BINDINGMODE 0
-bind S ACTIONBUTTON9
+bind UP NONE
+bind S CLICK BT4Button111:LeftButton
 bind A STRAFELEFT
 bind D STRAFERIGHT
-bind Q NONE
-bind E NONE
+bind Q CLICK BT4Button86:LeftButton
+bind E CLICK BT4Button105:LeftButton
+bind X CLICK BT4Button106:LeftButton
 bind NUMLOCK NONE
+bind R ACTIONBUTTON1
+bind 1 CLICK BT4Button108:LeftButton
+bind 2 NONE
+bind 3 CLICK BT4Button109:LeftButton
+bind 4 CLICK BT4Button110:LeftButton
+bind 5 CLICK BT4Button107:LeftButton
 bind 9 NONE
-bind SHIFT-1 MULTIACTIONBAR1BUTTON1
-bind C NONE
-bind N MULTIACTIONBAR1BUTTON12
+bind SHIFT-1 CLICK BT4Button61:LeftButton
+bind SHIFT-2 CLICK BT4Button62:LeftButton
+bind SHIFT-3 CLICK BT4Button63:LeftButton
+bind SHIFT-4 CLICK BT4Button64:LeftButton
+bind G CLICK BT4Button67:LeftButton
+bind F CLICK BT4Button112:LeftButton
+bind V CLICK BT4Button68:LeftButton
+bind C CLICK BT4Button85:LeftButton
+bind B NONE
+bind N CLICK BT4Button59:LeftButton
 bind NUMPADPLUS CAMERAZOOMIN
 bind NUMPADMINUS CAMERAZOOMOUT
 bind MOUSEWHEELUP NONE
 bind MOUSEWHEELDOWN NONE
+bind T CLICK BT4Button70:LeftButton
 bind ALT-W TOGGLEAUTORUN
+bind ` CLICK BT4Button69:LeftButton
+bind SHIFT-N CLICK BT4Button60:LeftButton
