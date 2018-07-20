@@ -151,18 +151,6 @@ Bartender4DB = {
 				},
 			},
 		},
-		["ZoneAbilityBar"] = {
-			["profiles"] = {
-				["Wandoo - Dreadmaul"] = {
-					["position"] = {
-						["y"] = 248.580032348633,
-						["x"] = 442.7705078125,
-						["point"] = "BOTTOM",
-					},
-					["version"] = 3,
-				},
-			},
-		},
 		["Vehicle"] = {
 			["profiles"] = {
 				["Wandoo - Dreadmaul"] = {
@@ -172,6 +160,18 @@ Bartender4DB = {
 						["x"] = -509.299957275391,
 						["point"] = "BOTTOM",
 					},
+				},
+			},
+		},
+		["StanceBar"] = {
+			["profiles"] = {
+				["Wandoo - Dreadmaul"] = {
+					["position"] = {
+						["y"] = -14.9999771118164,
+						["x"] = -82.5000305175781,
+						["point"] = "CENTER",
+					},
+					["version"] = 3,
 				},
 			},
 		},
@@ -187,13 +187,13 @@ Bartender4DB = {
 				},
 			},
 		},
-		["StanceBar"] = {
+		["ZoneAbilityBar"] = {
 			["profiles"] = {
 				["Wandoo - Dreadmaul"] = {
 					["position"] = {
-						["y"] = -14.9999771118164,
-						["x"] = -82.5000305175781,
-						["point"] = "CENTER",
+						["y"] = 248.580032348633,
+						["x"] = 442.7705078125,
+						["point"] = "BOTTOM",
 					},
 					["version"] = 3,
 				},

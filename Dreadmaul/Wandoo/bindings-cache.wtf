@@ -18,6 +18,11 @@ bind SHIFT-1 CLICK BT4Button61:LeftButton
 bind SHIFT-2 CLICK BT4Button62:LeftButton
 bind SHIFT-3 CLICK BT4Button63:LeftButton
 bind SHIFT-4 CLICK BT4Button64:LeftButton
+bind F1 FOCUSARENA1
+bind F2 FOCUSARENA2
+bind F3 FOCUSARENA3
+bind F4 FOCUSARENA4
+bind F5 FOCUSARENA5
 bind G CLICK BT4Button67:LeftButton
 bind F CLICK BT4Button112:LeftButton
 bind V CLICK BT4Button68:LeftButton
