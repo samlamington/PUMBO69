@@ -1,0 +1,4 @@
+VER 3 0100000000000001 "festering" "879926"
+/cast Festering Strike
+/petattack
+END

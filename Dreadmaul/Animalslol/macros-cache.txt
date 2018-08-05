@@ -1,0 +1,10 @@
+VER 3 0100000000000002 "swifty" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Aspect of the Wild
+/cast Blood Fury
+END
+VER 3 0100000000000001 "swifty" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Trueshot
+/cast Blood Fury
+END
