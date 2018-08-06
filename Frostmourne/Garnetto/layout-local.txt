@@ -2,8 +2,15 @@ Version: 1
 Frame: PlayerFrame
 FrameLevel: 1
 Anchor: TOPLEFT
-X: 227
-Y: -226
+X: 301
+Y: -225
+W: 232
+H: 100
+Frame: FocusFrame
+FrameLevel: 1
+Anchor: TOPRIGHT
+X: -354
+Y: -261
 W: 232
 H: 100
 Frame: TargetFrame

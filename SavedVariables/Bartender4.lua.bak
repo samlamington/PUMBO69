@@ -150,8 +150,8 @@ Bartender4DB = {
 							["enabled"] = true,
 							["version"] = 3,
 							["position"] = {
-								["y"] = 161.678924560547,
-								["x"] = 453.783081054688,
+								["y"] = 163.234619140625,
+								["x"] = 356.661224365234,
 								["point"] = "LEFT",
 							},
 						}, -- [9]
@@ -537,15 +537,6 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Animalslol - Dreadmaul"] = {
-					["enabled"] = true,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 47,
-						["x"] = -512,
-						["point"] = "BOTTOM",
-					},
-				},
 				["Garnetto - Frostmourne"] = {
 					["enabled"] = true,
 					["position"] = {
@@ -555,7 +546,7 @@ Bartender4DB = {
 					},
 					["version"] = 3,
 				},
-				["Wandoo - Dreadmaul"] = {
+				["Animalslol - Dreadmaul"] = {
 					["enabled"] = true,
 					["version"] = 3,
 					["position"] = {
@@ -564,48 +555,13 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-			},
-		},
-		["StanceBar"] = {
-			["profiles"] = {
-				["Samlamington - Dreadmaul"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -14.9999771118164,
-						["x"] = -82.5000305175781,
-						["point"] = "CENTER",
-					},
-				},
-				["Garnetto - Frostmourne"] = {
-					["position"] = {
-						["y"] = -14.9999771118164,
-						["x"] = -82.5000305175781,
-						["point"] = "CENTER",
-					},
-					["version"] = 3,
-				},
 				["Wandoo - Dreadmaul"] = {
+					["enabled"] = true,
 					["version"] = 3,
 					["position"] = {
-						["y"] = -14.9999771118164,
-						["x"] = -82.5000305175781,
-						["point"] = "CENTER",
-					},
-				},
-				["Animalslol - Dreadmaul"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -14.9999771118164,
-						["x"] = -82.5000305175781,
-						["point"] = "CENTER",
-					},
-				},
-				["Kangabangz - Frostmourne"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -14.9999771118164,
-						["x"] = -82.5000305175781,
-						["point"] = "CENTER",
+						["y"] = 47,
+						["x"] = -512,
+						["point"] = "BOTTOM",
 					},
 				},
 			},
@@ -649,6 +605,50 @@ Bartender4DB = {
 					["position"] = {
 						["y"] = 47.5000610351563,
 						["x"] = 99.5001220703125,
+						["point"] = "CENTER",
+					},
+				},
+			},
+		},
+		["StanceBar"] = {
+			["profiles"] = {
+				["Samlamington - Dreadmaul"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -14.9999771118164,
+						["x"] = -82.5000305175781,
+						["point"] = "CENTER",
+					},
+				},
+				["Garnetto - Frostmourne"] = {
+					["position"] = {
+						["y"] = -14.9999771118164,
+						["x"] = -82.5000305175781,
+						["point"] = "CENTER",
+					},
+					["version"] = 3,
+				},
+				["Wandoo - Dreadmaul"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -14.9999771118164,
+						["x"] = -82.5000305175781,
+						["point"] = "CENTER",
+					},
+				},
+				["Animalslol - Dreadmaul"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -14.9999771118164,
+						["x"] = -82.5000305175781,
+						["point"] = "CENTER",
+					},
+				},
+				["Kangabangz - Frostmourne"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -14.9999771118164,
+						["x"] = -82.5000305175781,
 						["point"] = "CENTER",
 					},
 				},

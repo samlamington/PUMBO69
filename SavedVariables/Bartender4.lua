@@ -83,11 +83,10 @@ Bartender4DB = {
 							["padding"] = 6,
 						}, -- [1]
 						{
-							["enabled"] = false,
 							["version"] = 3,
 							["position"] = {
-								["y"] = -227.500030517578,
-								["x"] = -231.500091552734,
+								["y"] = 82.3987426757813,
+								["x"] = 121.322387695313,
 								["point"] = "CENTER",
 							},
 						}, -- [2]
@@ -130,10 +129,12 @@ Bartender4DB = {
 							["padding"] = 6,
 						}, -- [6]
 						{
+							["enabled"] = true,
+							["alpha"] = 0,
 							["version"] = 3,
 							["position"] = {
-								["y"] = -227.500030517578,
-								["x"] = -231.500091552734,
+								["y"] = 122.398742675781,
+								["x"] = 121.322387695313,
 								["point"] = "CENTER",
 							},
 						}, -- [7]
@@ -546,15 +547,6 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Animalslol - Dreadmaul"] = {
-					["enabled"] = true,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 47,
-						["x"] = -512,
-						["point"] = "BOTTOM",
-					},
-				},
 				["Garnetto - Frostmourne"] = {
 					["enabled"] = true,
 					["position"] = {
@@ -563,6 +555,15 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 					["version"] = 3,
+				},
+				["Animalslol - Dreadmaul"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 47,
+						["x"] = -512,
+						["point"] = "BOTTOM",
+					},
 				},
 			},
 		},
@@ -610,45 +611,45 @@ Bartender4DB = {
 				},
 			},
 		},
-		["StanceBar"] = {
+		["Vehicle"] = {
 			["profiles"] = {
 				["Samlamington - Dreadmaul"] = {
 					["version"] = 3,
 					["position"] = {
-						["y"] = -14.9999771118164,
-						["x"] = -82.5000305175781,
+						["y"] = 47.5000610351563,
+						["x"] = 99.5001220703125,
 						["point"] = "CENTER",
 					},
 				},
 				["Garnetto - Frostmourne"] = {
-					["position"] = {
-						["y"] = -14.9999771118164,
-						["x"] = -82.5000305175781,
-						["point"] = "CENTER",
-					},
 					["version"] = 3,
+					["position"] = {
+						["y"] = 130.000015258789,
+						["x"] = 465.402282714844,
+						["point"] = "BOTTOM",
+					},
 				},
 				["Wandoo - Dreadmaul"] = {
 					["version"] = 3,
 					["position"] = {
-						["y"] = -14.9999771118164,
-						["x"] = -82.5000305175781,
-						["point"] = "CENTER",
+						["y"] = 130.000015258789,
+						["x"] = -509.299957275391,
+						["point"] = "BOTTOM",
 					},
 				},
 				["Animalslol - Dreadmaul"] = {
 					["version"] = 3,
 					["position"] = {
-						["y"] = -14.9999771118164,
-						["x"] = -82.5000305175781,
+						["y"] = 47.5000610351563,
+						["x"] = 99.5001220703125,
 						["point"] = "CENTER",
 					},
 				},
 				["Kangabangz - Frostmourne"] = {
 					["version"] = 3,
 					["position"] = {
-						["y"] = -14.9999771118164,
-						["x"] = -82.5000305175781,
+						["y"] = 47.5000610351563,
+						["x"] = 99.5001220703125,
 						["point"] = "CENTER",
 					},
 				},
@@ -698,45 +699,45 @@ Bartender4DB = {
 				},
 			},
 		},
-		["Vehicle"] = {
+		["StanceBar"] = {
 			["profiles"] = {
 				["Samlamington - Dreadmaul"] = {
 					["version"] = 3,
 					["position"] = {
-						["y"] = 47.5000610351563,
-						["x"] = 99.5001220703125,
+						["y"] = -14.9999771118164,
+						["x"] = -82.5000305175781,
 						["point"] = "CENTER",
 					},
 				},
 				["Garnetto - Frostmourne"] = {
-					["version"] = 3,
 					["position"] = {
-						["y"] = 130.000015258789,
-						["x"] = 465.402282714844,
-						["point"] = "BOTTOM",
+						["y"] = -14.9999771118164,
+						["x"] = -82.5000305175781,
+						["point"] = "CENTER",
 					},
+					["version"] = 3,
 				},
 				["Wandoo - Dreadmaul"] = {
 					["version"] = 3,
 					["position"] = {
-						["y"] = 130.000015258789,
-						["x"] = -509.299957275391,
-						["point"] = "BOTTOM",
+						["y"] = -14.9999771118164,
+						["x"] = -82.5000305175781,
+						["point"] = "CENTER",
 					},
 				},
 				["Animalslol - Dreadmaul"] = {
 					["version"] = 3,
 					["position"] = {
-						["y"] = 47.5000610351563,
-						["x"] = 99.5001220703125,
+						["y"] = -14.9999771118164,
+						["x"] = -82.5000305175781,
 						["point"] = "CENTER",
 					},
 				},
 				["Kangabangz - Frostmourne"] = {
 					["version"] = 3,
 					["position"] = {
-						["y"] = 47.5000610351563,
-						["x"] = 99.5001220703125,
+						["y"] = -14.9999771118164,
+						["x"] = -82.5000305175781,
 						["point"] = "CENTER",
 					},
 				},
