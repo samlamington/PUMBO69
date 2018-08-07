@@ -25,16 +25,16 @@ RecountDB = {
 				},
 			},
 			["MainWindowHeight"] = 265.833190917969,
-			["CurDataSet"] = "OverallData",
-			["MainWindowWidth"] = 358.333404541016,
 			["LastInstanceName"] = "The Arcway",
+			["MainWindowWidth"] = 358.333404541016,
+			["CurDataSet"] = "OverallData",
 		},
 		["Garnetto - Frostmourne"] = {
 			["MainWindow"] = {
 				["Position"] = {
-					["y"] = -466.666351318359,
+					["y"] = -466.666305541992,
 					["x"] = 869.165893554688,
-					["w"] = 140.00016784668,
+					["w"] = 140.000030517578,
 				},
 			},
 			["Colors"] = {

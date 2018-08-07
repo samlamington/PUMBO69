@@ -1,31 +1,3 @@
-VER 3 0000000000000009 "." "Spell_Fire_BlueFireNova"
-/target Sämantha
-/cast death coil
-END
-VER 3 000000000000000D "Decursive" "INV_Misc_QuestionMark"
-/script Dcr:Println('No spell available')
-END
-VER 3 0000000000000007 "FOLLOW" "Ability_Ambush"
-/target focus
-/cast strangulate
-END
-VER 3 0000000000000002 "gd" "Ability_Hunter_Pet_Devilsaur"
-/recount show
-END
-VER 3 0000000000000008 "Group" "Ability_Hunter_LockAndLoad"
-/readycheck
-END
-VER 3 000000000000000A "ice" "Ability_GolemStormBolt"
-/cast Chains of Ice
-/pet attack
-END
-VER 3 000000000000000C "s" "Ability_Creature_Cursed_02"
-/cast scourge strike
-/petattack
-END
-VER 3 000000000000000F "Tellmewhen" "INV_MISC_QUESTIONMARK"
-/tellmewhen
-END
-VER 3 000000000000000E "TMW" "INV_MISC_QUESTIONMARK"
-/tmw
+VER 3 0000000000000010 "focus" "538558"
+/cast [@focus] Asphyxiate
 END

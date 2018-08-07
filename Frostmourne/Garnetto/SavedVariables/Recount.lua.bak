@@ -1,0 +1,79 @@
+
+RecountPerCharDB = {
+	["version"] = "1.3",
+	["combatants"] = {
+		["Garnetto"] = {
+			["GUID"] = "Player-3725-0AA9B7EC",
+			["type"] = "Self",
+			["TimeLast"] = {
+				["OVERALL"] = 275101.728,
+				["RunicPowerGain"] = 275101.728,
+			},
+			["Owner"] = false,
+			["enClass"] = "DEATHKNIGHT",
+			["TimeWindows"] = {
+				["RunicPowerGain"] = {
+					10, -- [1]
+				},
+			},
+			["Name"] = "Garnetto",
+			["LastActive"] = 275101.728,
+			["Fights"] = {
+				["CurrentFightData"] = {
+					["RunicPowerGain"] = 10,
+					["RunicPowerGainedFrom"] = {
+						["Garnetto"] = {
+							["Details"] = {
+								["Death and Decay"] = {
+									["count"] = 10,
+								},
+							},
+							["amount"] = 10,
+						},
+					},
+					["RunicPowerGained"] = {
+						["Death and Decay"] = {
+							["Details"] = {
+								["Garnetto"] = {
+									["count"] = 10,
+								},
+							},
+							["amount"] = 10,
+						},
+					},
+				},
+				["OverallData"] = {
+					["RunicPowerGain"] = 10,
+					["RunicPowerGainedFrom"] = {
+						["Garnetto"] = {
+							["Details"] = {
+								["Death and Decay"] = {
+									["count"] = 10,
+								},
+							},
+							["amount"] = 10,
+						},
+					},
+					["RunicPowerGained"] = {
+						["Death and Decay"] = {
+							["Details"] = {
+								["Garnetto"] = {
+									["count"] = 10,
+								},
+							},
+							["amount"] = 10,
+						},
+					},
+				},
+			},
+			["level"] = 110,
+			["UnitLockout"] = 275101.728,
+			["LastFightIn"] = 0,
+		},
+	},
+	["FightNum"] = 0,
+	["CombatTimes"] = {
+	},
+	["FoughtWho"] = {
+	},
+}
