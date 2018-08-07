@@ -32,9 +32,9 @@ RecountDB = {
 		["Garnetto - Frostmourne"] = {
 			["MainWindow"] = {
 				["Position"] = {
-					["y"] = -466.666305541992,
+					["y"] = -466.666351318359,
 					["x"] = 869.165893554688,
-					["w"] = 140.000030517578,
+					["w"] = 140.00016784668,
 				},
 			},
 			["Colors"] = {
@@ -47,6 +47,8 @@ RecountDB = {
 					},
 				},
 			},
+			["MainWindowVis"] = false,
+			["LastInstanceName"] = "Dalaran Sewers",
 			["CurDataSet"] = "OverallData",
 		},
 	},

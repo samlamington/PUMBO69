@@ -47,6 +47,8 @@ RecountDB = {
 					},
 				},
 			},
+			["MainWindowVis"] = false,
+			["LastInstanceName"] = "Black Rook Hold Arena",
 			["CurDataSet"] = "OverallData",
 		},
 	},

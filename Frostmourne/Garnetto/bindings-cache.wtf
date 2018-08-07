@@ -6,16 +6,16 @@ bind D STRAFERIGHT
 bind Q CLICK BT4Button88:LeftButton
 bind E CLICK BT4Button89:LeftButton
 bind X CLICK BT4Button112:LeftButton
-bind Z CLICK BT4Button106:LeftButton
+bind Z CLICK BT4Button105:LeftButton
 bind NUMLOCK NONE
 bind BUTTON4 NONE
 bind R CLICK BT4Button110:LeftButton
 bind SHIFT-R NONE
-bind 1 CLICK BT4Button87:LeftButton
+bind 1 CLICK BT4Button106:LeftButton
 bind 2 CLICK BT4Button108:LeftButton
 bind 3 CLICK BT4Button107:LeftButton
 bind 4 ACTIONBUTTON2
-bind 5 CLICK BT4Button105:LeftButton
+bind 5 NONE
 bind 6 NONE
 bind 7 NONE
 bind 8 NONE
