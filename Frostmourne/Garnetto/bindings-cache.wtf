@@ -3,12 +3,12 @@ bind BUTTON3 CLICK BT4Button73:LeftButton
 bind S CLICK BT4Button72:LeftButton
 bind A STRAFELEFT
 bind D STRAFERIGHT
-bind Q CLICK BT4Button88:LeftButton
-bind E CLICK BT4Button89:LeftButton
+bind Q CLICK BT4Button89:LeftButton
+bind E CLICK BT4Button90:LeftButton
 bind X CLICK BT4Button112:LeftButton
 bind Z CLICK BT4Button105:LeftButton
 bind NUMLOCK NONE
-bind BUTTON4 NONE
+bind BUTTON4 CLICK BT4Button111:LeftButton
 bind R CLICK BT4Button110:LeftButton
 bind SHIFT-R NONE
 bind 1 CLICK BT4Button106:LeftButton
@@ -42,12 +42,12 @@ bind F2 TARGETARENA2
 bind F3 TARGETARENA3
 bind F4 TARGETARENA4
 bind F5 TARGETARENA5
-bind G BONUSACTIONBUTTON6
-bind F CLICK BT4Button90:LeftButton
+bind G CLICK BT4Button87:LeftButton
+bind F CLICK BT4Button91:LeftButton
 bind V CLICK BT4Button70:LeftButton
 bind SHIFT-V CLICK BT4Button69:LeftButton
 bind SHIFT-T CLICK BT4Button78:LeftButton
-bind C CLICK BT4Button91:LeftButton
+bind C CLICK BT4Button92:LeftButton
 bind B NONE
 bind SHIFT-B NONE
 bind N CLICK BT4Button59:LeftButton
@@ -55,15 +55,15 @@ bind U NONE
 bind NUMPADPLUS CAMERAZOOMIN
 bind NUMPADMINUS CAMERAZOOMOUT
 bind MOUSEWHEELUP CLICK BT4Button109:LeftButton
-bind MOUSEWHEELDOWN CLICK BT4Button92:LeftButton
+bind MOUSEWHEELDOWN CLICK BT4Button93:LeftButton
 bind CTRL-R NONE
 bind CTRL-MOUSEWHEELUP ACTIONBUTTON12
 bind SHIFT-G CLICK BT4Button77:LeftButton
 bind SHIFT-C NONE
-bind T BONUSACTIONBUTTON5
+bind T CLICK BT4Button88:LeftButton
 bind ALT-W TOGGLEAUTORUN
 bind SHIFT-F CLICK BT4Button74:LeftButton
-bind BUTTON5 CLICK BT4Button111:LeftButton
+bind BUTTON5 NONE
 bind SHIFT-N CLICK BT4Button60:LeftButton
 bind CTRL-C TOGGLEAUTORUN
 bind SHIFT-Q NONE
@@ -71,7 +71,7 @@ bind SHIFT-E NONE
 bind SHIFT-Z NONE
 bind SHIFT-X CLICK BT4Button75:LeftButton
 bind ] CLICK BT4Button46:LeftButton
-bind ` CLICK BT4Button93:LeftButton
+bind ` CLICK BT4Button94:LeftButton
 bind SHIFT-` CLICK BT4Button35:LeftButton
 bind [ OPENALLBAGS
 bind ' NONE

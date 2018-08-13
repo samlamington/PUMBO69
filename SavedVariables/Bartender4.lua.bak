@@ -130,12 +130,14 @@ Bartender4DB = {
 						}, -- [6]
 						{
 							["enabled"] = true,
-							["alpha"] = 0,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 122.398742675781,
 								["x"] = 121.322387695313,
 								["point"] = "CENTER",
+							},
+							["visibility"] = {
+								["always"] = true,
 							},
 						}, -- [7]
 						{

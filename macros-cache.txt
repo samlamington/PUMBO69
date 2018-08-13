@@ -1,9 +1,3 @@
-VER 3 0000000000000011 "focus" "INV_MISC_QUESTIONMARK"
-/focus
-END
-VER 3 0000000000000012 "focus" "237532"
-/cast [@focus] Death Grip
-END
 VER 3 0000000000000013 "focus" "135834"
 /cast [@focus] Chains of Ice
 END
@@ -15,4 +9,10 @@ VER 3 0000000000000015 "focus" "237511"
 END
 VER 3 0000000000000010 "focus" "538558"
 /cast [@focus] Asphyxiate
+END
+VER 3 0000000000000011 "focus" "INV_MISC_QUESTIONMARK"
+/focus
+END
+VER 3 0000000000000012 "focus" "237532"
+/cast [@focus] Death Grip
 END
