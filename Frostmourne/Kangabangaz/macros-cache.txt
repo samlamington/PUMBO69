@@ -1,0 +1,11 @@
+VER 3 0100000000000003 "prayer" "INV_MISC_QUESTIONMARK"
+#showtooltip Desperate Prayer
+/cast Desperate Prayer
+/use 13
+END
+VER 3 0100000000000001 "quick" "642580"
+/cast [@cursor] Angelic Feather
+END
+VER 3 0100000000000002 "self" "237545"
+/cast [@player] Penance
+END

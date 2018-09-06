@@ -1,11 +1,12 @@
-VER 3 0000000000000012 "focus" "237532"
-/cast [@focus] Death Grip
-END
-VER 3 0000000000000013 "focus" "135834"
-/cast [@focus] Chains of Ice
+VER 3 0000000000000016 "AAP_MACRO" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use Hearthstone
 END
 VER 3 0000000000000014 "focus" "1100170"
 /cast [@focus] Gnaw
+END
+VER 3 0000000000000013 "focus" "135834"
+/cast [@focus] Chains of Ice
 END
 VER 3 0000000000000015 "focus" "237511"
 /cast [@focus] Leap
@@ -15,4 +16,19 @@ VER 3 0000000000000010 "focus" "538558"
 END
 VER 3 0000000000000011 "focus" "INV_MISC_QUESTIONMARK"
 /focus
+END
+VER 3 0000000000000012 "focus" "237532"
+/cast [@focus] Death Grip
+END
+VER 3 0000000000000018 "focus" "237527"
+/cast [@focus] Mind Freeze
+END
+VER 3 0000000000000019 "FRIEND" "INV_MISC_QUESTIONMARK"
+/targetfriend
+END
+VER 3 0000000000000017 "Swifty" "INV_MISC_QUESTIONMARK"
+#showtooltip Unholy Frenzy
+/cast Blood Fury(Racial)
+/use 13
+/cast Unholy Frenzy
 END

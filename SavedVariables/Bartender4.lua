@@ -2,6 +2,35 @@
 Bartender4DB = {
 	["namespaces"] = {
 		["StatusTrackingBar"] = {
+			["profiles"] = {
+				["Yaboyjeeves - Frostmourne"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 4,
+						["x"] = -405.499877929688,
+						["point"] = "TOP",
+					},
+				},
+				["Garnetto - Frostmourne"] = {
+					["enabled"] = true,
+					["position"] = {
+						["y"] = 4,
+						["x"] = -406.000061035156,
+						["point"] = "TOP",
+					},
+					["version"] = 3,
+				},
+				["Kangabangaz - Frostmourne"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 4,
+						["x"] = -405.499877929688,
+						["point"] = "TOP",
+					},
+				},
+			},
 		},
 		["ActionBars"] = {
 			["profiles"] = {
@@ -83,10 +112,11 @@ Bartender4DB = {
 							["padding"] = 6,
 						}, -- [1]
 						{
+							["enabled"] = false,
 							["version"] = 3,
 							["position"] = {
-								["y"] = 82.3987426757813,
-								["x"] = 121.322387695313,
+								["y"] = 69.1908569335938,
+								["x"] = 128.773071289063,
 								["point"] = "CENTER",
 							},
 						}, -- [2]
@@ -130,42 +160,116 @@ Bartender4DB = {
 						}, -- [6]
 						{
 							["enabled"] = true,
+							["fadeoutalpha"] = 1,
 							["version"] = 3,
 							["position"] = {
-								["y"] = 122.398742675781,
-								["x"] = 121.322387695313,
-								["point"] = "CENTER",
+								["y"] = 42.0000038146973,
+								["x"] = -459.999755859375,
+								["point"] = "BOTTOMRIGHT",
 							},
 							["visibility"] = {
-								["always"] = true,
+								["always"] = false,
 							},
 						}, -- [7]
 						{
 							["enabled"] = true,
 							["version"] = 3,
 							["position"] = {
-								["y"] = -240.122116088867,
-								["x"] = -231.499877929688,
-								["point"] = "CENTER",
+								["y"] = 143.750047683716,
+								["x"] = -510.748435974121,
+								["point"] = "BOTTOM",
+								["scale"] = 1.25,
 							},
 						}, -- [8]
 						{
+							["fadeout"] = true,
 							["enabled"] = true,
+							["fadeoutalpha"] = 1,
 							["version"] = 3,
 							["position"] = {
-								["y"] = 163.234619140625,
-								["x"] = 356.661224365234,
-								["point"] = "LEFT",
+								["y"] = 184.000045776367,
+								["x"] = 442.163024902344,
+								["point"] = "BOTTOMLEFT",
 							},
 						}, -- [9]
 						{
+							["fadeout"] = true,
 							["enabled"] = true,
+							["fadeoutalpha"] = 1,
 							["version"] = 3,
 							["position"] = {
-								["y"] = 162.398803710938,
-								["x"] = 122.409912109375,
+								["y"] = 168.000030517578,
+								["x"] = 158.081787109375,
+								["point"] = "BOTTOM",
+							},
+						}, -- [10]
+					},
+				},
+				["Kangabangaz - Frostmourne"] = {
+					["actionbars"] = {
+						{
+							["version"] = 3,
+							["fadeoutalpha"] = 0,
+							["position"] = {
+								["y"] = 41.9999923706055,
+								["x"] = -530.020050048828,
+								["point"] = "BOTTOM",
+							},
+						}, -- [1]
+						{
+							["version"] = 3,
+							["position"] = {
+								["y"] = 81.9999847412109,
+								["x"] = -530.020050048828,
+								["point"] = "BOTTOM",
+							},
+						}, -- [2]
+						{
+							["version"] = 3,
+							["position"] = {
+								["y"] = 41.9999923706055,
+								["x"] = -73.5282897949219,
+								["point"] = "BOTTOM",
+							},
+						}, -- [3]
+						{
+							["version"] = 3,
+							["position"] = {
+								["y"] = 81.9999847412109,
+								["x"] = -72.0198974609375,
+								["point"] = "BOTTOM",
+							},
+						}, -- [4]
+						{
+							["enabled"] = false,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 86.2666473388672,
+								["x"] = -72.0198974609375,
+								["point"] = "BOTTOM",
+							},
+						}, -- [5]
+						{
+							["enabled"] = false,
+							["version"] = 3,
+							["position"] = {
+								["y"] = -227.500030517578,
+								["x"] = -231.500091552734,
 								["point"] = "CENTER",
 							},
+						}, -- [6]
+						{
+							["version"] = 3,
+							["position"] = {
+								["y"] = -227.500030517578,
+								["x"] = -231.500091552734,
+								["point"] = "CENTER",
+							},
+						}, -- [7]
+						{
+						}, -- [8]
+						nil, -- [9]
+						{
 						}, -- [10]
 					},
 				},
@@ -260,6 +364,64 @@ Bartender4DB = {
 						}, -- [10]
 					},
 				},
+				["Kangabangz - Frostmourne"] = {
+					["actionbars"] = {
+						{
+							["version"] = 3,
+							["position"] = {
+								["y"] = 42.0000038146973,
+								["x"] = -280.526794433594,
+								["point"] = "BOTTOM",
+							},
+						}, -- [1]
+						{
+							["version"] = 3,
+							["position"] = {
+								["y"] = -227.500030517578,
+								["x"] = -231.500091552734,
+								["point"] = "CENTER",
+							},
+						}, -- [2]
+						{
+							["version"] = 3,
+							["position"] = {
+								["y"] = 131.511016845703,
+								["x"] = -259.900024414063,
+								["point"] = "BOTTOM",
+							},
+						}, -- [3]
+						{
+							["version"] = 3,
+							["position"] = {
+								["y"] = -227.500030517578,
+								["x"] = -231.500091552734,
+								["point"] = "CENTER",
+							},
+						}, -- [4]
+						{
+							["version"] = 3,
+							["position"] = {
+								["y"] = -227.500030517578,
+								["x"] = -231.500091552734,
+								["point"] = "CENTER",
+							},
+						}, -- [5]
+						{
+							["version"] = 3,
+							["position"] = {
+								["y"] = -227.500030517578,
+								["x"] = -231.500091552734,
+								["point"] = "CENTER",
+							},
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						[10] = {
+						},
+					},
+				},
 				["Animalslol - Dreadmaul"] = {
 					["actionbars"] = {
 						{
@@ -326,49 +488,52 @@ Bartender4DB = {
 						},
 					},
 				},
-				["Kangabangz - Frostmourne"] = {
+				["Yaboyjeeves - Frostmourne"] = {
 					["actionbars"] = {
 						{
+							["fadeoutalpha"] = 0,
 							["version"] = 3,
 							["position"] = {
-								["y"] = 42.0000038146973,
-								["x"] = -280.526794433594,
+								["y"] = 41.9999923706055,
+								["x"] = -530.020050048828,
 								["point"] = "BOTTOM",
 							},
 						}, -- [1]
 						{
 							["version"] = 3,
 							["position"] = {
-								["y"] = -227.500030517578,
-								["x"] = -231.500091552734,
-								["point"] = "CENTER",
+								["y"] = 81.9999847412109,
+								["x"] = -530.020050048828,
+								["point"] = "BOTTOM",
 							},
 						}, -- [2]
 						{
 							["version"] = 3,
 							["position"] = {
-								["y"] = 131.511016845703,
-								["x"] = -259.900024414063,
+								["y"] = 41.9999923706055,
+								["x"] = -73.5282897949219,
 								["point"] = "BOTTOM",
 							},
 						}, -- [3]
 						{
 							["version"] = 3,
 							["position"] = {
-								["y"] = -227.500030517578,
-								["x"] = -231.500091552734,
-								["point"] = "CENTER",
+								["y"] = 81.9999847412109,
+								["x"] = -72.0198974609375,
+								["point"] = "BOTTOM",
 							},
 						}, -- [4]
 						{
+							["enabled"] = false,
 							["version"] = 3,
 							["position"] = {
-								["y"] = -227.500030517578,
-								["x"] = -231.500091552734,
-								["point"] = "CENTER",
+								["y"] = 86.2666473388672,
+								["x"] = -72.0198974609375,
+								["point"] = "BOTTOM",
 							},
 						}, -- [5]
 						{
+							["enabled"] = false,
 							["version"] = 3,
 							["position"] = {
 								["y"] = -227.500030517578,
@@ -377,11 +542,18 @@ Bartender4DB = {
 							},
 						}, -- [6]
 						{
+							["version"] = 3,
+							["position"] = {
+								["y"] = -227.500030517578,
+								["x"] = -231.500091552734,
+								["point"] = "CENTER",
+							},
 						}, -- [7]
 						{
 						}, -- [8]
-						[10] = {
-						},
+						nil, -- [9]
+						{
+						}, -- [10]
 					},
 				},
 			},
@@ -400,17 +572,33 @@ Bartender4DB = {
 				},
 				["Garnetto - Frostmourne"] = {
 					["position"] = {
-						["y"] = 223.000030517578,
-						["x"] = -31.5001220703125,
+						["y"] = 229.999938964844,
+						["x"] = -61.6859130859375,
 						["point"] = "BOTTOM",
 					},
 					["version"] = 3,
+				},
+				["Kangabangaz - Frostmourne"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 223.000091552734,
+						["x"] = -87.5001220703125,
+						["point"] = "BOTTOM",
+					},
 				},
 				["Wandoo - Dreadmaul"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 174.339920043945,
 						["x"] = 443.403564453125,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Kangabangz - Frostmourne"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 223.000030517578,
+						["x"] = -31.5001220703125,
 						["point"] = "BOTTOM",
 					},
 				},
@@ -422,11 +610,11 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Kangabangz - Frostmourne"] = {
+				["Yaboyjeeves - Frostmourne"] = {
 					["version"] = 3,
 					["position"] = {
-						["y"] = 223.000030517578,
-						["x"] = -31.5001220703125,
+						["y"] = 223.000091552734,
+						["x"] = -87.5001220703125,
 						["point"] = "BOTTOM",
 					},
 				},
@@ -454,6 +642,15 @@ Bartender4DB = {
 					["version"] = 3,
 					["padding"] = -2,
 				},
+				["Kangabangaz - Frostmourne"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 31.5999974191188,
+						["x"] = 394.929562795107,
+						["point"] = "BOTTOM",
+						["scale"] = 0.800000011920929,
+					},
+				},
 				["Wandoo - Dreadmaul"] = {
 					["padding"] = -2,
 					["version"] = 3,
@@ -462,6 +659,15 @@ Bartender4DB = {
 						["x"] = 37.5,
 						["point"] = "BOTTOM",
 						["scale"] = 1,
+					},
+				},
+				["Kangabangz - Frostmourne"] = {
+					["version"] = 3,
+					["position"] = {
+						["scale"] = 0.800000011920929,
+						["x"] = -198.800182380281,
+						["point"] = "CENTER",
+						["y"] = 41.9999607384198,
 					},
 				},
 				["Animalslol - Dreadmaul"] = {
@@ -474,13 +680,13 @@ Bartender4DB = {
 						["y"] = 41.75,
 					},
 				},
-				["Kangabangz - Frostmourne"] = {
+				["Yaboyjeeves - Frostmourne"] = {
 					["version"] = 3,
 					["position"] = {
+						["y"] = 31.5999974191188,
+						["x"] = 394.929562795107,
+						["point"] = "BOTTOM",
 						["scale"] = 0.800000011920929,
-						["x"] = -198.800182380281,
-						["point"] = "CENTER",
-						["y"] = 41.9999607384198,
 					},
 				},
 			},
@@ -503,15 +709,15 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Wandoo - Dreadmaul"] = {
+				["Kangabangaz - Frostmourne"] = {
 					["version"] = 3,
 					["position"] = {
-						["y"] = 38.5,
-						["x"] = 345,
-						["point"] = "BOTTOM",
+						["y"] = 36.0000114440918,
+						["x"] = -448.564208984375,
+						["point"] = "BOTTOMRIGHT",
 					},
 				},
-				["Animalslol - Dreadmaul"] = {
+				["Wandoo - Dreadmaul"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 38.5,
@@ -525,6 +731,22 @@ Bartender4DB = {
 						["y"] = 1.5001220703125,
 						["x"] = 58.4998779296875,
 						["point"] = "CENTER",
+					},
+				},
+				["Animalslol - Dreadmaul"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 38.5,
+						["x"] = 345,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Yaboyjeeves - Frostmourne"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 36.0000114440918,
+						["x"] = -448.564208984375,
+						["point"] = "BOTTOMRIGHT",
 					},
 				},
 			},
@@ -549,15 +771,6 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Garnetto - Frostmourne"] = {
-					["enabled"] = true,
-					["position"] = {
-						["y"] = 47,
-						["x"] = -512,
-						["point"] = "BOTTOM",
-					},
-					["version"] = 3,
-				},
 				["Animalslol - Dreadmaul"] = {
 					["enabled"] = true,
 					["version"] = 3,
@@ -566,6 +779,15 @@ Bartender4DB = {
 						["x"] = -512,
 						["point"] = "BOTTOM",
 					},
+				},
+				["Garnetto - Frostmourne"] = {
+					["enabled"] = true,
+					["position"] = {
+						["y"] = 47,
+						["x"] = -512,
+						["point"] = "BOTTOM",
+					},
+					["version"] = 3,
 				},
 			},
 		},
@@ -581,17 +803,33 @@ Bartender4DB = {
 				},
 				["Garnetto - Frostmourne"] = {
 					["position"] = {
-						["y"] = 282.480102539063,
-						["x"] = -31.5,
+						["y"] = 229.999938964844,
+						["x"] = 22.15673828125,
 						["point"] = "BOTTOM",
 					},
 					["version"] = 3,
+				},
+				["Kangabangaz - Frostmourne"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 223.346740722656,
+						["x"] = 13.233154296875,
+						["point"] = "BOTTOM",
+					},
 				},
 				["Wandoo - Dreadmaul"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 248.580032348633,
 						["x"] = 442.7705078125,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Kangabangz - Frostmourne"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 223.000045776367,
+						["x"] = -31.500244140625,
 						["point"] = "BOTTOM",
 					},
 				},
@@ -603,11 +841,131 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
+				["Yaboyjeeves - Frostmourne"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 223.346740722656,
+						["x"] = 13.233154296875,
+						["point"] = "BOTTOM",
+					},
+				},
+			},
+		},
+		["StanceBar"] = {
+			["profiles"] = {
+				["Samlamington - Dreadmaul"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -14.9999771118164,
+						["x"] = -82.5000305175781,
+						["point"] = "CENTER",
+					},
+				},
+				["Garnetto - Frostmourne"] = {
+					["position"] = {
+						["y"] = -14.9999771118164,
+						["x"] = -82.5000305175781,
+						["point"] = "CENTER",
+					},
+					["version"] = 3,
+				},
+				["Kangabangaz - Frostmourne"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 132.500015258789,
+						["x"] = -524.680969238281,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Wandoo - Dreadmaul"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -14.9999771118164,
+						["x"] = -82.5000305175781,
+						["point"] = "CENTER",
+					},
+				},
 				["Kangabangz - Frostmourne"] = {
 					["version"] = 3,
 					["position"] = {
-						["y"] = 223.000045776367,
-						["x"] = -31.500244140625,
+						["y"] = -14.9999771118164,
+						["x"] = -82.5000305175781,
+						["point"] = "CENTER",
+					},
+				},
+				["Animalslol - Dreadmaul"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -14.9999771118164,
+						["x"] = -82.5000305175781,
+						["point"] = "CENTER",
+					},
+				},
+				["Yaboyjeeves - Frostmourne"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 132.500015258789,
+						["x"] = -524.680969238281,
+						["point"] = "BOTTOM",
+					},
+				},
+			},
+		},
+		["PetBar"] = {
+			["profiles"] = {
+				["Samlamington - Dreadmaul"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 127,
+						["x"] = -460,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Garnetto - Frostmourne"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 128.000030517578,
+						["x"] = 140.806701660156,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Kangabangaz - Frostmourne"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 70.0000228881836,
+						["x"] = 414.732971191406,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Wandoo - Dreadmaul"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 128.000030517578,
+						["x"] = -470.793273925781,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Kangabangz - Frostmourne"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 89.4999389648438,
+						["x"] = -163.499877929688,
+						["point"] = "CENTER",
+					},
+				},
+				["Animalslol - Dreadmaul"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 127,
+						["x"] = -460,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Yaboyjeeves - Frostmourne"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 70.0000228881836,
+						["x"] = 414.732971191406,
 						["point"] = "BOTTOM",
 					},
 				},
@@ -631,6 +989,14 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
+				["Kangabangaz - Frostmourne"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 106.000038146973,
+						["x"] = -369.155639648438,
+						["point"] = "BOTTOMRIGHT",
+					},
+				},
 				["Wandoo - Dreadmaul"] = {
 					["version"] = 3,
 					["position"] = {
@@ -639,14 +1005,6 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Animalslol - Dreadmaul"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 47.5000610351563,
-						["x"] = 99.5001220703125,
-						["point"] = "CENTER",
-					},
-				},
 				["Kangabangz - Frostmourne"] = {
 					["version"] = 3,
 					["position"] = {
@@ -655,92 +1013,20 @@ Bartender4DB = {
 						["point"] = "CENTER",
 					},
 				},
-			},
-		},
-		["PetBar"] = {
-			["profiles"] = {
-				["Samlamington - Dreadmaul"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 127,
-						["x"] = -460,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Garnetto - Frostmourne"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 127,
-						["x"] = -460,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Wandoo - Dreadmaul"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 128.000030517578,
-						["x"] = -470.793273925781,
-						["point"] = "BOTTOM",
-					},
-				},
 				["Animalslol - Dreadmaul"] = {
 					["version"] = 3,
 					["position"] = {
-						["y"] = 127,
-						["x"] = -460,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Kangabangz - Frostmourne"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 89.4999389648438,
-						["x"] = -163.499877929688,
+						["y"] = 47.5000610351563,
+						["x"] = 99.5001220703125,
 						["point"] = "CENTER",
 					},
 				},
-			},
-		},
-		["StanceBar"] = {
-			["profiles"] = {
-				["Samlamington - Dreadmaul"] = {
+				["Yaboyjeeves - Frostmourne"] = {
 					["version"] = 3,
 					["position"] = {
-						["y"] = -14.9999771118164,
-						["x"] = -82.5000305175781,
-						["point"] = "CENTER",
-					},
-				},
-				["Garnetto - Frostmourne"] = {
-					["position"] = {
-						["y"] = -14.9999771118164,
-						["x"] = -82.5000305175781,
-						["point"] = "CENTER",
-					},
-					["version"] = 3,
-				},
-				["Wandoo - Dreadmaul"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -14.9999771118164,
-						["x"] = -82.5000305175781,
-						["point"] = "CENTER",
-					},
-				},
-				["Animalslol - Dreadmaul"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -14.9999771118164,
-						["x"] = -82.5000305175781,
-						["point"] = "CENTER",
-					},
-				},
-				["Kangabangz - Frostmourne"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -14.9999771118164,
-						["x"] = -82.5000305175781,
-						["point"] = "CENTER",
+						["y"] = 106.000038146973,
+						["x"] = -369.155639648438,
+						["point"] = "BOTTOMRIGHT",
 					},
 				},
 			},
@@ -749,9 +1035,11 @@ Bartender4DB = {
 	["profileKeys"] = {
 		["Samlamington - Dreadmaul"] = "Samlamington - Dreadmaul",
 		["Garnetto - Frostmourne"] = "Garnetto - Frostmourne",
+		["Kangabangaz - Frostmourne"] = "Kangabangaz - Frostmourne",
 		["Wandoo - Dreadmaul"] = "Wandoo - Dreadmaul",
-		["Animalslol - Dreadmaul"] = "Animalslol - Dreadmaul",
 		["Kangabangz - Frostmourne"] = "Kangabangz - Frostmourne",
+		["Animalslol - Dreadmaul"] = "Animalslol - Dreadmaul",
+		["Yaboyjeeves - Frostmourne"] = "Yaboyjeeves - Frostmourne",
 	},
 	["profiles"] = {
 		["Samlamington - Dreadmaul"] = {
@@ -760,9 +1048,17 @@ Bartender4DB = {
 			["outofrange"] = "hotkey",
 		},
 		["Garnetto - Frostmourne"] = {
-			["focuscastmodifier"] = false,
 			["blizzardVehicle"] = true,
+			["focuscastmodifier"] = false,
+			["minimapIcon"] = {
+				["minimapPos"] = 191.053767571189,
+			},
 			["outofrange"] = "hotkey",
+		},
+		["Kangabangaz - Frostmourne"] = {
+			["minimapIcon"] = {
+				["minimapPos"] = 186.153147642112,
+			},
 		},
 		["Wandoo - Dreadmaul"] = {
 			["focuscastmodifier"] = false,
@@ -772,12 +1068,17 @@ Bartender4DB = {
 			},
 			["outofrange"] = "hotkey",
 		},
+		["Kangabangz - Frostmourne"] = {
+		},
 		["Animalslol - Dreadmaul"] = {
 			["focuscastmodifier"] = false,
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
 		},
-		["Kangabangz - Frostmourne"] = {
+		["Yaboyjeeves - Frostmourne"] = {
+			["minimapIcon"] = {
+				["minimapPos"] = 186.153147642112,
+			},
 		},
 	},
 }

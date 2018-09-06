@@ -1,0 +1,6 @@
+VER 3 0100000000000001 "quick" "642580"
+/cast [@cursor] Angelic Feather
+END
+VER 3 0100000000000002 "self" "237545"
+/cast [@player] Penance
+END

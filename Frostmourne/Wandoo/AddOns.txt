@@ -1,1 +1,3 @@
 Bartender4: enabled
+Azeroth Auto Pilot: enabled
+CompactRunes: disabled

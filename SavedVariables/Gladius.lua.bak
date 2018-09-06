@@ -1,0 +1,40 @@
+
+Gladius2DB = {
+	["profileKeys"] = {
+		["Yaboyjeeves - Frostmourne"] = "Yaboyjeeves - Frostmourne",
+		["Garnetto - Frostmourne"] = "Garnetto - Frostmourne",
+		["Kangabangaz - Frostmourne"] = "Kangabangaz - Frostmourne",
+	},
+	["profiles"] = {
+		["Yaboyjeeves - Frostmourne"] = {
+			["auraVersion"] = 1,
+			["tagsVersion"] = 4,
+			["y"] = {
+				["arena1"] = 490.595379659339,
+			},
+			["x"] = {
+				["arena1"] = 1027.1993520403,
+			},
+		},
+		["Garnetto - Frostmourne"] = {
+			["auraVersion"] = 1,
+			["tagsVersion"] = 4,
+			["y"] = {
+				["arena1"] = 472.462176939647,
+			},
+			["x"] = {
+				["arena1"] = 1048.53278906347,
+			},
+		},
+		["Kangabangaz - Frostmourne"] = {
+			["auraVersion"] = 1,
+			["tagsVersion"] = 4,
+			["x"] = {
+				["arena1"] = 957.155447355908,
+			},
+			["y"] = {
+				["arena1"] = 495.928777977628,
+			},
+		},
+	},
+}
